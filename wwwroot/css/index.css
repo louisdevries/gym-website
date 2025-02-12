@@ -1,0 +1,96 @@
+.lead {
+   font-style: italic;
+   margin-top: -800px;
+   color: red;
+   font-size: 30px;
+}
+
+/* Ensure the section covers the entire viewport */
+.hero {
+   background: url('https://res.cloudinary.com/dj66v3aj7/image/upload/v1739349844/A_background_image_for_a_fitness_website_with_a_warrior_scholar_philosophy_spirituality_vibe_k8q37h.jpg') 
+               no-repeat center center transparent;
+   background-size: cover;
+
+   /* Force full width */
+   width: 100vw; 
+   max-width: 100vw; 
+
+   /* Adjust height */
+   height: 400px; 
+
+   /* Remove any potential margins/padding */
+   margin: 0;
+   padding-top: 800px;
+
+   /* Ensure it stays outside of a container */
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   z-index: -1;
+   /* Center text */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   /* Ensure text is readable */
+   color: white;
+   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+
+
+/* Remove body margin & padding */
+body, html {
+   margin: 0;
+   padding: 0;
+   height: 100%;   
+}
+
+/* Container for the program section */
+.programs {
+   display: flex;
+   justify-content: center; /* Center the items */
+   gap: 20px; /* Space between images */
+   padding: 50px 20px; /* Add padding */
+   margin-top: 750px;
+}
+
+/* Style each image link */
+.program-card {
+   position: relative;
+   width: 300px; /* Adjust as needed */
+   height: 400px; /* Adjust as needed */
+   overflow: hidden;
+   border-radius: 15px;
+   transition: transform 0.3s ease;
+}
+
+.program-card img {
+   width: 100%;
+   height: 100%;
+   object-fit: cover; /* Ensures the image covers the space */
+   border-radius: 15px;
+}
+
+
+/* Text overlay */
+.overlay-text {
+   position: absolute;
+   bottom: 10%;
+   left: 50%;
+   transform: translateX(-50%);
+   font-size: 24px;
+   font-weight: bold;
+   color: white;
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px 20px;
+   border-radius: 10px;
+   text-transform: uppercase;
+   text-align: center;
+}
+
+/* Hover effect */
+.program-card:hover {
+   transform: scale(1.05);
+}

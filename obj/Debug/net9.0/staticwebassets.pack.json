@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\GymWebsite.7okxohcsrv.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
       "Id": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

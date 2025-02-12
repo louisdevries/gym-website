@@ -17,7 +17,6 @@ C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\GymWebsite.RazorAssemblyInfo
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\scopedcss\bundle\GymWebsite.styles.css
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\scopedcss\projectbundle\GymWebsite.bundle.scp.css
-C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\qw1d3432kg-b9sayid5wm.gz
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\dpnoqedw5a-61n19gt1b8.gz
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\8xg3wrsxx4-xtxxf3hu2r.gz
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\v37gpi5ufa-bqjiyaj88i.gz
@@ -95,3 +94,7 @@ C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\refint\GymWebsite.dll
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\GymWebsite.pdb
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\GymWebsite.genruntimeconfig.cache
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\ref\GymWebsite.dll
+C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\GymWebsite.sourcelink.json
+C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\qw1d3432kg-srcnpg7nlm.gz
+C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\uxhyl3oa91-lmz98eb9n8.gz
+C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\oql3vz1alx-8r41j29hj1.gz

@@ -1,0 +1,104 @@
+.custom-navbar {
+    width: 75%; /* Keep it centered */
+    margin: 20px auto;
+    background-color: rgba(0, 0, 0, 0.85) !important; /* Darker than body */
+    border-radius: 15px;
+    padding: 10px 20px;
+    backdrop-filter: blur(10px);
+    text-align: center;
+    z-index: 10; /* Keep it above the hero image */
+}
+
+/* Style for navbar links */
+.custom-navbar .nav-link,
+.custom-navbar .navbar-brand {
+    position: relative;  /* Required for absolute positioning of the underline */
+    color: red !important;  /* Set text color to red */
+    
+}
+
+
+/* Underline effect */
+.custom-navbar .nav-link::after {
+    content: "";  /* Creates a pseudo-element */
+    position: absolute;
+    left: 0;
+    bottom: -5px;  /* Moves the underline lower */
+    width: 100%;
+    height: 3px;  /* Adjust thickness */
+    background-color: red;  /* Underline color */
+    transform: scaleX(0);  /* Starts hidden */
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Show underline on hover */
+.custom-navbar .nav-link:hover::after {
+    transform: scaleX(1);  /* Expands the underline */
+}
+
+
+/* Change hamburger icon color */
+.custom-navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='red' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Remove default border */
+.custom-navbar .navbar-toggler {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* Show border when clicked */
+.custom-navbar .navbar-toggler:focus,
+.custom-navbar .navbar-toggler:active {
+    border: 2px solid red !important; /* Red border when clicked */
+    outline: none !important;
+}
+
+body {
+    
+    background-color: rgba(20, 20, 20, 1); /* Slightly lighter black */
+    color: white; /* Ensures text is readable */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.footer {
+    background: rgba(0, 0, 0, 0.85); /* Dark background */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    width: 100%;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer p {
+    margin: 10px 0;
+    font-size: 14px;
+}
+
+/* Social Icons */
+.social-links {
+    margin-top: 10px;
+}
+
+.social-links a {
+    color: white;
+    font-size: 24px;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Hover Effect */
+.social-links a:hover {
+    color: red;
+}
