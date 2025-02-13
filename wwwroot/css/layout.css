@@ -57,12 +57,13 @@
 }
 
 body {
-    
-    background-color: rgba(20, 20, 20, 1); /* Slightly lighter black */
-    color: white; /* Ensures text is readable */
+    background-color: rgba(20, 20, 20, 1);
+    color: white;
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+    position: relative; /* Ensure body is the stacking context */
+    z-index: 0; /* Lower z-index for background */
 }
 
 .footer {
@@ -101,4 +102,8 @@ body {
 /* Hover Effect */
 .social-links a:hover {
     color: red;
+}
+
+html, body {
+    height: 100%; /* Make sure both html and body take up full height */
 }

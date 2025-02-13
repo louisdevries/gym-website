@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8tc3jBPUuoN6GOS6sPZ/l0NwZ5smB9ZFeRjlg7T7IXE=",
+  "Hash": "cTYYS+HSilCwqIj4zgpDL9pkscgdnOUMK2TN9J/fGTw=",
   "Source": "GymWebsite",
   "BasePath": "_content/GymWebsite",
   "Mode": "Default",
@@ -920,12 +920,12 @@
       "OriginalItemSpec": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-8r41j29hj1.gz",
+      "Identity": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-3spgfim26z.gz",
       "SourceId": "GymWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GymWebsite",
-      "RelativePath": "css/layout#[.{fingerprint=8r41j29hj1}]?.css.gz",
+      "RelativePath": "css/layout#[.{fingerprint=3spgfim26z}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -934,8 +934,8 @@
       "RelatedAsset": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\layout.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kspcqqwr3h",
-      "Integrity": "lM9xbZ+hM317SHBTJOlSDbd8UwFAbrftTSIuooYb2Qs=",
+      "Fingerprint": "ewj92610ig",
+      "Integrity": "/vZKuWYz2egYSGgHTeAdSk1dDQTp6Iyb9OirF/oPfgM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\layout.css"
@@ -1046,12 +1046,12 @@
       "OriginalItemSpec": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GymWebsite.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-srcnpg7nlm.gz",
+      "Identity": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-mmi67ujhhg.gz",
       "SourceId": "GymWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GymWebsite",
-      "RelativePath": "css/site#[.{fingerprint=srcnpg7nlm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=mmi67ujhhg}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lza99wh2pg",
-      "Integrity": "H6e4Zp4tgve8oBxp7lxW4cdID87YYGBvfymfuZ0mHTM=",
+      "Fingerprint": "laaieljfic",
+      "Integrity": "Y8mW5SctXxOZBYdMSeaIFQPrEwX3j5v1ZUDk6HSfzHc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\site.css"
@@ -1193,12 +1193,12 @@
       "OriginalItemSpec": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-lmz98eb9n8.gz",
+      "Identity": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-446r20cy7f.gz",
       "SourceId": "GymWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GymWebsite",
-      "RelativePath": "css/index#[.{fingerprint=lmz98eb9n8}]?.css.gz",
+      "RelativePath": "css/index#[.{fingerprint=446r20cy7f}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1207,8 +1207,8 @@
       "RelatedAsset": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\index.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gcwl8ic6su",
-      "Integrity": "AJll+ozm6szO5wZyaGiTmEg67EVxX2QuPPSz5ObLsx8=",
+      "Fingerprint": "4d7b0k64dz",
+      "Integrity": "CCrJmk8dIuxnq1pbKyjXcOQAODR3PDkGxqnmdggQsvw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\index.css"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lmz98eb9n8",
-      "Integrity": "Y/NJXA8Yqt3Sin5rf2vCC4T3AQpYSbEOKJJicjgCoT0=",
+      "Fingerprint": "446r20cy7f",
+      "Integrity": "tNmygr14golq8+/lPpZtgA2DQJRe+BLaC4jcmI3CUtA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\index.css"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8r41j29hj1",
-      "Integrity": "rCay8h/IvqzGRJP9DfyyOGkH+mydSPdjKRc8YbL9zU4=",
+      "Fingerprint": "3spgfim26z",
+      "Integrity": "g71lhwOqeHBBSBsrdoktHz33vFtKjROBn2nzN2BLxN0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\layout.css"
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "srcnpg7nlm",
-      "Integrity": "mDYGNLqz9lmn2/W6VS5EQObBGxWE5Mwazq8uH283zg4=",
+      "Fingerprint": "mmi67ujhhg",
+      "Integrity": "zrJIf4rSZL0CCy4tjuROLNohC0caNJ2y4I8FkroGNgA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2812,13 +2812,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/index.css",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-lmz98eb9n8.gz",
+      "Route": "css/index.446r20cy7f.css",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-446r20cy7f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001076426265"
+          "Quality": "0.000772797527"
         }
       ],
       "ResponseHeaders": [
@@ -2828,19 +2828,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "928"
+          "Value": "1293"
         },
         {
           "Name": "ETag",
-          "Value": "\"AJll+ozm6szO5wZyaGiTmEg67EVxX2QuPPSz5ObLsx8=\""
+          "Value": "\"CCrJmk8dIuxnq1pbKyjXcOQAODR3PDkGxqnmdggQsvw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:46:00 GMT"
+          "Value": "Thu, 13 Feb 2025 08:38:30 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2856,18 +2856,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Y/NJXA8Yqt3Sin5rf2vCC4T3AQpYSbEOKJJicjgCoT0=\""
+          "Value": "W/\"tNmygr14golq8+/lPpZtgA2DQJRe+BLaC4jcmI3CUtA=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "446r20cy7f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-Y/NJXA8Yqt3Sin5rf2vCC4T3AQpYSbEOKJJicjgCoT0="
+          "Value": "sha256-tNmygr14golq8+/lPpZtgA2DQJRe+BLaC4jcmI3CUtA="
         }
       ]
     },
     {
-      "Route": "css/index.css",
+      "Route": "css/index.446r20cy7f.css",
       "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\index.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2877,7 +2885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2120"
+          "Value": "3804"
         },
         {
           "Name": "Content-Type",
@@ -2885,121 +2893,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Y/NJXA8Yqt3Sin5rf2vCC4T3AQpYSbEOKJJicjgCoT0=\""
+          "Value": "\"tNmygr14golq8+/lPpZtgA2DQJRe+BLaC4jcmI3CUtA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:46:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Y/NJXA8Yqt3Sin5rf2vCC4T3AQpYSbEOKJJicjgCoT0="
-        }
-      ]
-    },
-    {
-      "Route": "css/index.css.gz",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-lmz98eb9n8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "928"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AJll+ozm6szO5wZyaGiTmEg67EVxX2QuPPSz5ObLsx8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:46:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-AJll+ozm6szO5wZyaGiTmEg67EVxX2QuPPSz5ObLsx8="
-        }
-      ]
-    },
-    {
-      "Route": "css/index.lmz98eb9n8.css",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-lmz98eb9n8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001076426265"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "928"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AJll+ozm6szO5wZyaGiTmEg67EVxX2QuPPSz5ObLsx8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:46:00 GMT"
+          "Value": "Thu, 13 Feb 2025 08:38:30 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Y/NJXA8Yqt3Sin5rf2vCC4T3AQpYSbEOKJJicjgCoT0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lmz98eb9n8"
+          "Value": "446r20cy7f"
         },
         {
           "Name": "label",
@@ -3007,13 +2915,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Y/NJXA8Yqt3Sin5rf2vCC4T3AQpYSbEOKJJicjgCoT0="
+          "Value": "sha256-tNmygr14golq8+/lPpZtgA2DQJRe+BLaC4jcmI3CUtA="
         }
       ]
     },
     {
-      "Route": "css/index.lmz98eb9n8.css",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\index.css",
+      "Route": "css/index.446r20cy7f.css.gz",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-446r20cy7f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3022,7 +2930,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2120"
+          "Value": "1293"
         },
         {
           "Name": "Content-Type",
@@ -3030,56 +2938,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Y/NJXA8Yqt3Sin5rf2vCC4T3AQpYSbEOKJJicjgCoT0=\""
+          "Value": "\"CCrJmk8dIuxnq1pbKyjXcOQAODR3PDkGxqnmdggQsvw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:46:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lmz98eb9n8"
-        },
-        {
-          "Name": "label",
-          "Value": "css/index.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Y/NJXA8Yqt3Sin5rf2vCC4T3AQpYSbEOKJJicjgCoT0="
-        }
-      ]
-    },
-    {
-      "Route": "css/index.lmz98eb9n8.css.gz",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-lmz98eb9n8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "928"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AJll+ozm6szO5wZyaGiTmEg67EVxX2QuPPSz5ObLsx8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:46:00 GMT"
+          "Value": "Thu, 13 Feb 2025 08:38:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3097,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lmz98eb9n8"
+          "Value": "446r20cy7f"
         },
         {
           "Name": "label",
@@ -3105,18 +2968,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AJll+ozm6szO5wZyaGiTmEg67EVxX2QuPPSz5ObLsx8="
+          "Value": "sha256-CCrJmk8dIuxnq1pbKyjXcOQAODR3PDkGxqnmdggQsvw="
         }
       ]
     },
     {
-      "Route": "css/layout.8r41j29hj1.css",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-8r41j29hj1.gz",
+      "Route": "css/index.css",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-446r20cy7f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000955109838"
+          "Quality": "0.000772797527"
         }
       ],
       "ResponseHeaders": [
@@ -3126,15 +2989,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "1293"
         },
         {
           "Name": "ETag",
-          "Value": "\"lM9xbZ+hM317SHBTJOlSDbd8UwFAbrftTSIuooYb2Qs=\""
+          "Value": "\"CCrJmk8dIuxnq1pbKyjXcOQAODR3PDkGxqnmdggQsvw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:50:32 GMT"
+          "Value": "Thu, 13 Feb 2025 08:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tNmygr14golq8+/lPpZtgA2DQJRe+BLaC4jcmI3CUtA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNmygr14golq8+/lPpZtgA2DQJRe+BLaC4jcmI3CUtA="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tNmygr14golq8+/lPpZtgA2DQJRe+BLaC4jcmI3CUtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 08:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tNmygr14golq8+/lPpZtgA2DQJRe+BLaC4jcmI3CUtA="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css.gz",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\uxhyl3oa91-446r20cy7f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CCrJmk8dIuxnq1pbKyjXcOQAODR3PDkGxqnmdggQsvw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 08:38:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CCrJmk8dIuxnq1pbKyjXcOQAODR3PDkGxqnmdggQsvw="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.3spgfim26z.css",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-3spgfim26z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000914076782"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1093"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/vZKuWYz2egYSGgHTeAdSk1dDQTp6Iyb9OirF/oPfgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 07:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3154,13 +3154,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rCay8h/IvqzGRJP9DfyyOGkH+mydSPdjKRc8YbL9zU4=\""
+          "Value": "W/\"g71lhwOqeHBBSBsrdoktHz33vFtKjROBn2nzN2BLxN0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8r41j29hj1"
+          "Value": "3spgfim26z"
         },
         {
           "Name": "label",
@@ -3168,12 +3168,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rCay8h/IvqzGRJP9DfyyOGkH+mydSPdjKRc8YbL9zU4="
+          "Value": "sha256-g71lhwOqeHBBSBsrdoktHz33vFtKjROBn2nzN2BLxN0="
         }
       ]
     },
     {
-      "Route": "css/layout.8r41j29hj1.css",
+      "Route": "css/layout.3spgfim26z.css",
       "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\layout.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3183,7 +3183,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2645"
+          "Value": "2791"
         },
         {
           "Name": "Content-Type",
@@ -3191,11 +3191,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rCay8h/IvqzGRJP9DfyyOGkH+mydSPdjKRc8YbL9zU4=\""
+          "Value": "\"g71lhwOqeHBBSBsrdoktHz33vFtKjROBn2nzN2BLxN0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:50:32 GMT"
+          "Value": "Thu, 13 Feb 2025 07:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3205,7 +3205,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8r41j29hj1"
+          "Value": "3spgfim26z"
         },
         {
           "Name": "label",
@@ -3213,13 +3213,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rCay8h/IvqzGRJP9DfyyOGkH+mydSPdjKRc8YbL9zU4="
+          "Value": "sha256-g71lhwOqeHBBSBsrdoktHz33vFtKjROBn2nzN2BLxN0="
         }
       ]
     },
     {
-      "Route": "css/layout.8r41j29hj1.css.gz",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-8r41j29hj1.gz",
+      "Route": "css/layout.3spgfim26z.css.gz",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-3spgfim26z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3228,7 +3228,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "1093"
         },
         {
           "Name": "Content-Type",
@@ -3236,11 +3236,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lM9xbZ+hM317SHBTJOlSDbd8UwFAbrftTSIuooYb2Qs=\""
+          "Value": "\"/vZKuWYz2egYSGgHTeAdSk1dDQTp6Iyb9OirF/oPfgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:50:32 GMT"
+          "Value": "Thu, 13 Feb 2025 07:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3258,7 +3258,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8r41j29hj1"
+          "Value": "3spgfim26z"
         },
         {
           "Name": "label",
@@ -3266,18 +3266,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lM9xbZ+hM317SHBTJOlSDbd8UwFAbrftTSIuooYb2Qs="
+          "Value": "sha256-/vZKuWYz2egYSGgHTeAdSk1dDQTp6Iyb9OirF/oPfgM="
         }
       ]
     },
     {
       "Route": "css/layout.css",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-8r41j29hj1.gz",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-3spgfim26z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000955109838"
+          "Quality": "0.000914076782"
         }
       ],
       "ResponseHeaders": [
@@ -3287,15 +3287,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "1093"
         },
         {
           "Name": "ETag",
-          "Value": "\"lM9xbZ+hM317SHBTJOlSDbd8UwFAbrftTSIuooYb2Qs=\""
+          "Value": "\"/vZKuWYz2egYSGgHTeAdSk1dDQTp6Iyb9OirF/oPfgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:50:32 GMT"
+          "Value": "Thu, 13 Feb 2025 07:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3315,13 +3315,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rCay8h/IvqzGRJP9DfyyOGkH+mydSPdjKRc8YbL9zU4=\""
+          "Value": "W/\"g71lhwOqeHBBSBsrdoktHz33vFtKjROBn2nzN2BLxN0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rCay8h/IvqzGRJP9DfyyOGkH+mydSPdjKRc8YbL9zU4="
+          "Value": "sha256-g71lhwOqeHBBSBsrdoktHz33vFtKjROBn2nzN2BLxN0="
         }
       ]
     },
@@ -3336,7 +3336,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2645"
+          "Value": "2791"
         },
         {
           "Name": "Content-Type",
@@ -3344,11 +3344,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rCay8h/IvqzGRJP9DfyyOGkH+mydSPdjKRc8YbL9zU4=\""
+          "Value": "\"g71lhwOqeHBBSBsrdoktHz33vFtKjROBn2nzN2BLxN0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:50:32 GMT"
+          "Value": "Thu, 13 Feb 2025 07:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3358,13 +3358,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rCay8h/IvqzGRJP9DfyyOGkH+mydSPdjKRc8YbL9zU4="
+          "Value": "sha256-g71lhwOqeHBBSBsrdoktHz33vFtKjROBn2nzN2BLxN0="
         }
       ]
     },
     {
       "Route": "css/layout.css.gz",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-8r41j29hj1.gz",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\oql3vz1alx-3spgfim26z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3373,7 +3373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "1093"
         },
         {
           "Name": "Content-Type",
@@ -3381,11 +3381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lM9xbZ+hM317SHBTJOlSDbd8UwFAbrftTSIuooYb2Qs=\""
+          "Value": "\"/vZKuWYz2egYSGgHTeAdSk1dDQTp6Iyb9OirF/oPfgM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 12:50:32 GMT"
+          "Value": "Thu, 13 Feb 2025 07:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3403,18 +3403,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lM9xbZ+hM317SHBTJOlSDbd8UwFAbrftTSIuooYb2Qs="
+          "Value": "sha256-/vZKuWYz2egYSGgHTeAdSk1dDQTp6Iyb9OirF/oPfgM="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-srcnpg7nlm.gz",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-mmi67ujhhg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002923976608"
+          "Quality": "0.003076923077"
         }
       ],
       "ResponseHeaders": [
@@ -3424,15 +3424,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "341"
+          "Value": "324"
         },
         {
           "Name": "ETag",
-          "Value": "\"H6e4Zp4tgve8oBxp7lxW4cdID87YYGBvfymfuZ0mHTM=\""
+          "Value": "\"Y8mW5SctXxOZBYdMSeaIFQPrEwX3j5v1ZUDk6HSfzHc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 09:07:19 GMT"
+          "Value": "Wed, 12 Feb 2025 12:59:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3452,13 +3452,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mDYGNLqz9lmn2/W6VS5EQObBGxWE5Mwazq8uH283zg4=\""
+          "Value": "W/\"zrJIf4rSZL0CCy4tjuROLNohC0caNJ2y4I8FkroGNgA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mDYGNLqz9lmn2/W6VS5EQObBGxWE5Mwazq8uH283zg4="
+          "Value": "sha256-zrJIf4rSZL0CCy4tjuROLNohC0caNJ2y4I8FkroGNgA="
         }
       ]
     },
@@ -3473,7 +3473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "721"
+          "Value": "677"
         },
         {
           "Name": "Content-Type",
@@ -3481,11 +3481,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mDYGNLqz9lmn2/W6VS5EQObBGxWE5Mwazq8uH283zg4=\""
+          "Value": "\"zrJIf4rSZL0CCy4tjuROLNohC0caNJ2y4I8FkroGNgA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 09:07:19 GMT"
+          "Value": "Wed, 12 Feb 2025 12:59:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3495,13 +3495,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mDYGNLqz9lmn2/W6VS5EQObBGxWE5Mwazq8uH283zg4="
+          "Value": "sha256-zrJIf4rSZL0CCy4tjuROLNohC0caNJ2y4I8FkroGNgA="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-srcnpg7nlm.gz",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-mmi67ujhhg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3510,7 +3510,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "341"
+          "Value": "324"
         },
         {
           "Name": "Content-Type",
@@ -3518,11 +3518,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H6e4Zp4tgve8oBxp7lxW4cdID87YYGBvfymfuZ0mHTM=\""
+          "Value": "\"Y8mW5SctXxOZBYdMSeaIFQPrEwX3j5v1ZUDk6HSfzHc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 09:07:19 GMT"
+          "Value": "Wed, 12 Feb 2025 12:59:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3540,18 +3540,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H6e4Zp4tgve8oBxp7lxW4cdID87YYGBvfymfuZ0mHTM="
+          "Value": "sha256-Y8mW5SctXxOZBYdMSeaIFQPrEwX3j5v1ZUDk6HSfzHc="
         }
       ]
     },
     {
-      "Route": "css/site.srcnpg7nlm.css",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-srcnpg7nlm.gz",
+      "Route": "css/site.mmi67ujhhg.css",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-mmi67ujhhg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002923976608"
+          "Quality": "0.003076923077"
         }
       ],
       "ResponseHeaders": [
@@ -3561,15 +3561,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "341"
+          "Value": "324"
         },
         {
           "Name": "ETag",
-          "Value": "\"H6e4Zp4tgve8oBxp7lxW4cdID87YYGBvfymfuZ0mHTM=\""
+          "Value": "\"Y8mW5SctXxOZBYdMSeaIFQPrEwX3j5v1ZUDk6HSfzHc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 09:07:19 GMT"
+          "Value": "Wed, 12 Feb 2025 12:59:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3589,13 +3589,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mDYGNLqz9lmn2/W6VS5EQObBGxWE5Mwazq8uH283zg4=\""
+          "Value": "W/\"zrJIf4rSZL0CCy4tjuROLNohC0caNJ2y4I8FkroGNgA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "srcnpg7nlm"
+          "Value": "mmi67ujhhg"
         },
         {
           "Name": "label",
@@ -3603,12 +3603,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mDYGNLqz9lmn2/W6VS5EQObBGxWE5Mwazq8uH283zg4="
+          "Value": "sha256-zrJIf4rSZL0CCy4tjuROLNohC0caNJ2y4I8FkroGNgA="
         }
       ]
     },
     {
-      "Route": "css/site.srcnpg7nlm.css",
+      "Route": "css/site.mmi67ujhhg.css",
       "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3618,7 +3618,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "721"
+          "Value": "677"
         },
         {
           "Name": "Content-Type",
@@ -3626,11 +3626,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mDYGNLqz9lmn2/W6VS5EQObBGxWE5Mwazq8uH283zg4=\""
+          "Value": "\"zrJIf4rSZL0CCy4tjuROLNohC0caNJ2y4I8FkroGNgA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 09:07:19 GMT"
+          "Value": "Wed, 12 Feb 2025 12:59:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3640,7 +3640,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "srcnpg7nlm"
+          "Value": "mmi67ujhhg"
         },
         {
           "Name": "label",
@@ -3648,13 +3648,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mDYGNLqz9lmn2/W6VS5EQObBGxWE5Mwazq8uH283zg4="
+          "Value": "sha256-zrJIf4rSZL0CCy4tjuROLNohC0caNJ2y4I8FkroGNgA="
         }
       ]
     },
     {
-      "Route": "css/site.srcnpg7nlm.css.gz",
-      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-srcnpg7nlm.gz",
+      "Route": "css/site.mmi67ujhhg.css.gz",
+      "AssetFile": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\Debug\\net9.0\\compressed\\qw1d3432kg-mmi67ujhhg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3663,7 +3663,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "341"
+          "Value": "324"
         },
         {
           "Name": "Content-Type",
@@ -3671,11 +3671,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H6e4Zp4tgve8oBxp7lxW4cdID87YYGBvfymfuZ0mHTM=\""
+          "Value": "\"Y8mW5SctXxOZBYdMSeaIFQPrEwX3j5v1ZUDk6HSfzHc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 09:07:19 GMT"
+          "Value": "Wed, 12 Feb 2025 12:59:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3693,7 +3693,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "srcnpg7nlm"
+          "Value": "mmi67ujhhg"
         },
         {
           "Name": "label",
@@ -3701,7 +3701,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H6e4Zp4tgve8oBxp7lxW4cdID87YYGBvfymfuZ0mHTM="
+          "Value": "sha256-Y8mW5SctXxOZBYdMSeaIFQPrEwX3j5v1ZUDk6HSfzHc="
         }
       ]
     },

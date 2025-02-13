@@ -95,6 +95,6 @@ C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\GymWebsite.pdb
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\GymWebsite.genruntimeconfig.cache
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\ref\GymWebsite.dll
 C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\GymWebsite.sourcelink.json
-C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\qw1d3432kg-srcnpg7nlm.gz
-C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\uxhyl3oa91-lmz98eb9n8.gz
-C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\oql3vz1alx-8r41j29hj1.gz
+C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\qw1d3432kg-mmi67ujhhg.gz
+C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\oql3vz1alx-3spgfim26z.gz
+C:\Users\louis\Projects\GymWebsite\obj\Debug\net9.0\compressed\uxhyl3oa91-446r20cy7f.gz

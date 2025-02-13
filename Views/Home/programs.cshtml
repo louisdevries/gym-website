@@ -1,0 +1,25 @@
+@page "{gender}"
+@model ProgramModel
+@{
+    ViewData["Title"] = $"{Model.Gender} Programs";
+}
+
+@section Styles {
+    <link href="~/css/programs.css" rel="stylesheet" asp-append-version="true">
+}
+
+<div class="hero-programs">
+    <h1>@Model.Gender Programs</h1>
+</div>
+
+<section class="programs-list">
+    @foreach (var program in Model.Programs)
+    {
+        <div class="program-card">
+            <img src="@program.ImageUrl" alt="@program.Title">
+            <h2>@program.Title</h2>
+            <p>@program.Description</p>
+            <a href="@Url.Page("/ProgramDetails", new { id = program.Id })" class="btn btn-primary">View Details</a>
+        </div>
+    }
+</section>
