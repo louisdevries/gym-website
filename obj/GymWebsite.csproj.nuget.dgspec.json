@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\louis\\Projects\\GymWebsite\\GymWebsite.csproj": {}
+    "C:\\Users\\Jannie De Vries\\programming\\gym-website\\GymWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\louis\\Projects\\GymWebsite\\GymWebsite.csproj": {
+    "C:\\Users\\Jannie De Vries\\programming\\gym-website\\GymWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\louis\\Projects\\GymWebsite\\GymWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\Jannie De Vries\\programming\\gym-website\\GymWebsite.csproj",
         "projectName": "GymWebsite",
-        "projectPath": "C:\\Users\\louis\\Projects\\GymWebsite\\GymWebsite.csproj",
-        "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\louis\\Projects\\GymWebsite\\obj\\",
+        "projectPath": "C:\\Users\\Jannie De Vries\\programming\\gym-website\\GymWebsite.csproj",
+        "packagesPath": "C:\\Users\\Jannie De Vries\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jannie De Vries\\programming\\gym-website\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jannie De Vries\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,11 +38,37 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

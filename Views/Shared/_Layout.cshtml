@@ -39,6 +39,10 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/contact">Contact</a>
                         </li>
+                        <!-- Add Login Link Here -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="/login">Login</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -47,6 +51,29 @@
         <!-- Content Section -->
         <div class="container">
             @RenderBody()  <!-- Content from individual views will go here -->
+        </div>
+
+        <!-- Login Overlay (Initially Hidden) -->
+        <div id="loginOverlay" class="overlay" style="display:none;">
+            <div class="overlay-content">
+                <span id="closeLoginOverlay" class="close-btn">&times;</span>
+                <h3>Login</h3>
+                <form id="loginForm">
+                    <div class="mb-3">
+                        <label for="username" class="form-label">Username</label>
+                        <input type="text" class="form-control" id="username" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email address</label>
+                        <input type="email" class="form-control" id="email" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" class="form-control" id="password" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </form>
+            </div>
         </div>
 
         <!-- Footer Section -->

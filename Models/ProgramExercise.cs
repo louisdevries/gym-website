@@ -1,8 +1,10 @@
+namespace GymWebsite.Models;
+
 public class ProgramExercise
 {
     public int ProgramId { get; set; }
-    public Program Program { get; set; }
+    public required FitnessProgram Program { get; set; }
 
     public int ExerciseId { get; set; }
-    public Exercise Exercise { get; set; }
+    public required Exercise Exercise { get; set; }
 }
